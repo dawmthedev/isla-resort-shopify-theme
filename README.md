@@ -1,3 +1,5 @@
+# Isla Resort Shopify Theme
+
 A minimalist, modern Shopify theme designed specifically for Isla Resort's women's fashion boutique. This theme emphasizes simplicity, functionality, and aesthetics to create an engaging shopping experience.
 
 ## Features
